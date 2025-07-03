@@ -12,4 +12,6 @@
 
 <h2>Connect with me:</h2>
 
-[![LinkedIn - Angelo Reyes](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/angelobreyes)
+<a href="https://www.linkedin.com/in/YOUR-USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
