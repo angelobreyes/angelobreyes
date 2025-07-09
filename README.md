@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/angelobreyes/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/angelobreyes/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/angelobreyes/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure/Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/angelobreyes/configure-ad)
   - [Active Directory: Group Policies and Managing Accounts](https://github.com/angelobreyes/ad-group-policies)
 
