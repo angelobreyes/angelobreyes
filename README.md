@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/angelobreyes/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/angelobreyes/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/angelobreyes/azure-network-protocols)
+  - [Active Directory: Group Policies and Managing Accounts](https://github.com/angelobreyes/ad-group-policies)
 
 <h2>Connect with me:</h2>
 
