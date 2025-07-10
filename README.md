@@ -9,7 +9,7 @@
 - <b>Microsoft Azure/Active Directory</b>
   1. [Configuring On-premises Active Directory within Azure VMs](https://github.com/angelobreyes/configure-ad)
   2. [Active Directory: Group Policies and Managing Accounts](https://github.com/angelobreyes/ad-group-policies)
-  3. [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/angelobreyes/azure-network-protocols)
+  
 <h2>Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/angelobreyes" target="_blank">
